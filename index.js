@@ -42,14 +42,8 @@ function viewMovies() {
 }
 
 // Example usage:
-addMovie("Inception", "Sci-Fi", 2010);
-addMovie("The Godfather", "Crime", 1972);
-addMovie("The Dark Knight", "Action", 2008);
+addMovie("Wheel Of Time", "Sci-Fi", 2021);
 addMovie("Maria", "Drama", 2021);
-addMovie("Birdbox", "Horror", 2020);
-addMovie("Nope", "Sci-fi", 2025);
-addMovie("FearStreet", "Horror", 2021);
-addMovie("SquidGame", "Thriller", 2021);
 addMovie("KungfuPanda", "Animation", 2008);
 addMovie("BloodParliament", "Documentary", 2025);
 
